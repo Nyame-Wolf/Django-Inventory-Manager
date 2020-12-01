@@ -28,7 +28,7 @@ This app should be able to keep inventory of Andela’s assets, mainly electroni
     lost-and-found items
     8 As an admin, I should be able to mark a case as ​resolved ​(appropriately), with some description
  # User(staff) key features:
-    5 As a user (staff member), I should be able to report a case of an item getting lost
-    6 As a user (staff member), I should be able to report a case of a lost-and-found
+    1 As a user (staff member), I should be able to report a case of an item getting lost
+    2 As a user (staff member), I should be able to report a case of a lost-and-found
     item
     
