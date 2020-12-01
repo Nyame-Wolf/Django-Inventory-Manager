@@ -6,7 +6,7 @@ This app should be able to keep inventory of Andela’s assets, mainly electroni
 
 - The admins for this app, are staff members in the Ops and Facilities Department and the rest are staff members (and fellows)
 ## Key Features
-- As a super-admin, I should be to sign-in and add other admins
+- As a super-admin, I should be able to sign-in and add other admins
 # Admin Key features:
     1 As an admin, I should be able to sign-in
     2 As an admin, I should be able to add an asset record, with the following details:
