@@ -1,0 +1,16 @@
+{% extends "manager/base.html" %}
+{% block title %}My Assets {% endblock %}
+{% block content %}
+<h1>Asset list</h1>
+{% for asset in assets %}
+<h2>
+    <!--<a href="{{ post.get_absolute_url }}">-->
+        {{ asset.name }}
+    </a>
+</h2>
+<p class="date">
+    Bought {{ asset.date_bought }} 
+</p>
+
+{% endfor %}
+{% endblock %}
